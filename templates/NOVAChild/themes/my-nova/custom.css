@@ -1,0 +1,50 @@
+/*
+ * Platz für eigene Änderungen direkt als CSS
+ * Die hier gemachten Änderungen überschreiben ggfs. andere Styles, da diese Datei als letzte geladen wird.
+ */
+ #jtl-nav-wrapper {
+    background-image: url("../../image/bg/header.png");
+    background-size: contain ;
+    
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    background-color: black;     
+
+ }
+ #gallery{
+    padding: 3em;
+}
+ #head{
+     height: 200px;
+ }
+ .mar{
+    margin: 0;
+    padding: 0;
+ }
+ .imgs{
+    margin: 0;
+    padding: 0;
+    height: 20em;
+    width: auto;
+ }
+ .headline{
+  display: block;
+ }
+ .line{
+    font-size: 24px;
+    font-family: 'neue-haas-grotesk-text',calibri;
+    font-weight: 1000;
+    color: #4e4d4d;
+    text-align: center;
+    padding: 1px 0;
+    margin: 25px 0 10px;
+    text-transform: uppercase;
+
+ }
+ .line1{
+
+    padding-top: 4em ;
+    
+    
+ }
